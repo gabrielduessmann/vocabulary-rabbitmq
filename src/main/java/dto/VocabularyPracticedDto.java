@@ -7,7 +7,6 @@ import java.util.UUID;
 
 @NoArgsConstructor
 @AllArgsConstructor
-public class CommentDTO implements Serializable {
-    public UUID id;
-    public String comment;
+public class VocabularyPracticedDto implements Serializable {
+    public UUID vocabularyId;
 }

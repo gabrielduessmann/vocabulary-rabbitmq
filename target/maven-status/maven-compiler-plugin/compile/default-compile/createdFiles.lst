@@ -1,2 +1,2 @@
-dto\CommentDTO.class
+dto\VocabularyPracticedDto.class
 messagebroker\RabbitMQConstants.class

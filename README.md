@@ -6,7 +6,7 @@ This project is a package used by other projects that contains RabbitMQ communic
 
 ### Projects that use this package
 * [vocabulary-board-backend](https://github.com/gabrielduessmann/vocabulary-board-backend)
-* [vocabulary-metrics-backend](vocabulary-metrics-backend)
+* [vocabulary-metrics-backend](https://github.com/gabrielduessmann/vocabulary-metrics-backend)
 
 ## How to use
 
